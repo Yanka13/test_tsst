@@ -1,6 +1,4 @@
-Add this to `first-workflow.yml`
 
-```yaml
 name: first-workflow
 on: [push]
 jobs:
